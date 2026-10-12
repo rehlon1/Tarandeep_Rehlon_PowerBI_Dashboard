@@ -1,0 +1,5 @@
+Average Monthly Crime Rate per 1,000 =
+DIVIDE(
+    SUM('Police Crime Data - OUTPUT'[Crime rate per 1,000]),
+    DISTINCTCOUNT('Police Crime Data - OUTPUT'[Month])
+)
