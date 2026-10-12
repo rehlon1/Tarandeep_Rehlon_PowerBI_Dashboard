@@ -1,8 +1,8 @@
 # Power BI Report
 
-The original Power BI report is included in this folder as:
+The original project file is **Tarandeep_Rehlon_Crime_Database_Dashboard.pbix**.
 
-`Tarandeep_Rehlon_Crime_Database_Dashboard.pbix`
+The submitted `.pbix` was inspected directly to document the report pages, visual structure, model tables and DAX used in this portfolio. The current GitHub connection does not expose a binary-file upload action, so the binary report file itself is not committed automatically.
 
 ## Report pages
 
