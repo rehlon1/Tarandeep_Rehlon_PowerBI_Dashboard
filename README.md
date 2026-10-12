@@ -137,7 +137,6 @@ The analysis highlights four areas for further review:
 .
 ├── README.md
 ├── powerbi/
-│   ├── Tarandeep_Rehlon_Crime_Database_Dashboard.pbix
 │   └── README.md
 ├── dax/
 │   └── average-monthly-crime-rate.dax
@@ -148,6 +147,12 @@ The analysis highlights four areas for further review:
 │   └── assumptions-and-limitations.md
 └── .gitignore
 ```
+
+## Power BI project file
+
+The original `.pbix` was inspected directly to document the report structure, visuals, model tables and DAX accurately. The current GitHub connection supports repository text/code changes but does not expose a binary-file upload action, so the `.pbix` itself is not committed here.
+
+The portfolio documentation is based on the submitted Power BI file rather than being reconstructed from the presentation alone.
 
 ## Assumptions and limitations
 
